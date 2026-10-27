@@ -9,6 +9,8 @@
 
 ---
 
+![ECG PatchTST project workflow](docs/readme-architecture.svg)
+
 ## 🚀 Key Features
 
 - **PatchTST Backbone**: Leverages patch-based transformer encoders for efficient and long-range dependency modeling in 12-lead ECG signals.
